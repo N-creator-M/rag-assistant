@@ -1,0 +1,10 @@
+transformers
+torch
+datasets
+sentencepiece
+sacremoses
+accelerate
+sentence-transformers
+faiss-cpu
+numpy
+matplotlib
